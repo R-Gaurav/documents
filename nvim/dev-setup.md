@@ -1,0 +1,2 @@
+# Installing neovim using AppImages
+
