@@ -36,4 +36,9 @@ in your local terminal. Note that `nv` is used in the above command (after `&&`)
 To fix the missing icons in your nv editor, `JetBrainsMono Nerd Font` is required; more information on the abovementioned **nvchad** installation link. 
 
 1. Download `JetBrainsMono Nerd Font` from https://www.nerdfonts.com/font-downloads
-2. 
+2. Open the zip, no need to extract it. Install the fonts: "JetBrainsMonoNerdFont-Bold", "JetBrainsMonoNerdFont-Light", "JetBrainsMonoNerdFont-Medium" (by double clicking and then hitting Install).
+   
+   a. You can install other JetBrainsMonoNerdFont" too, but the above ones should suffice.
+
+3. Restart your Windows Terminal, otherwise it wouldn't find the new fonts.
+4. Go to "Settings -> Windows PowerShell"
