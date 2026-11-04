@@ -1,4 +1,4 @@
-# Installing neovim using AppImages
+# Setting-up neovim using AppImage
 ## Downloading the AppImage
 1. Create a directory `AppImages` in your favorite location, e.g., `~/Downloads/AppImages/` to download and store the AppImage of neovim.
 2. Visit the link: https://github.com/neovim/neovim/releases
@@ -19,3 +19,14 @@
    NOTE: You likely have **nano** or **vim** editors already installed on your linux OS.
 
 3. Execute `nv` in terminal to verify of neovim (NVIM) is installed correctly. Alternatively, create a dummy file: `nv file.txt` to verify.
+
+## Installing `nvchad`
+`nvchad` auto-configures your neovim installation for a nice UI and with useful plugins. Installation instructions can be found at:
+
+https://nvchad.com/docs/quickstart/install/
+
+i.e., simply execute:
+
+`git clone https://github.com/NvChad/starter ~/.config/nvim && nv` 
+
+in your local terminal. Note that `nv` is used in the above command (after `&&`) instead of `nvim` because you aliased neovim to `nv` in the earlier steps. Upon executing the above command it will auto-install the related plugins.
