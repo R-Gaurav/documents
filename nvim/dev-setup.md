@@ -30,3 +30,10 @@ i.e., simply execute:
 `git clone https://github.com/NvChad/starter ~/.config/nvim && nv` 
 
 in your local terminal. Note that `nv` is used in the above command (after `&&`) instead of `nvim` because you aliased neovim to `nv` in the earlier steps. Upon executing the above command it will auto-install the related plugins.
+
+## Install `JetBrainsMono Nerd Font`
+
+To fix the missing icons in your nv editor, `JetBrainsMono Nerd Font` is required; more information on the abovementioned **nvchad** installation link. 
+
+1. Download `JetBrainsMono Nerd Font` from https://www.nerdfonts.com/font-downloads
+2. 
