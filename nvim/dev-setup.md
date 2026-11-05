@@ -44,3 +44,8 @@ To fix the missing icons in your nv editor, `JetBrainsMono Nerd Font` is require
 4. Go to "Settings -> Windows PowerShell" (in left column) -> "Appearance" -> "Font face" and change your font to "JetBrainsMono Nerd Font".
 
 And that's it! You have successfully installed **neovim** with **nvchad** with proper font support for a great UI!
+
+## Configuring init.vim or init.lua
+Look into either of the files: **init.vim** or **init.lua** in this GitHub directory and get help with Claude to prepare one for you. And yes, you can also consider these files: init.vim or init.lua as a reference point to begin with.
+
+Happy Coding!
