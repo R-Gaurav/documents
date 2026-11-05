@@ -41,4 +41,6 @@ To fix the missing icons in your nv editor, `JetBrainsMono Nerd Font` is require
    a. You can install other JetBrainsMonoNerdFont" too, but the above ones should suffice.
 
 3. Restart your Windows Terminal, otherwise it wouldn't find the new fonts.
-4. Go to "Settings -> Windows PowerShell"
+4. Go to "Settings -> Windows PowerShell" (in left column) -> "Appearance" -> "Font face" and change your font to "JetBrainsMono Nerd Font".
+
+And that's it! You have successfully installed **neovim** with **nvchad** with proper font support for a great UI!
